@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for FuckOps Learning</h1>
-    <p>Please fill in this form to eat a pussy and dick.</p>
+    <h1>New user for Devops website </h1>
+    <p>Please fill in this form to get free courses.</p>
     <hr>
 
     <label for="Name"><b>Enter Name</b></label>
@@ -24,14 +24,14 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
-    <p>By creating an account you agree to our penis <a href="#">Terms & Privacy</a>.</p>
+    <p>By creating an account you agree to our term and conditions <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning fuckers </h1>
+   <h1> Thankyou, Happy Learning Students </h1>
 
 
 </form>
