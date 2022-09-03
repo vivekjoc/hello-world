@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user for Devops website </h1>
+    <h1>New and old  user for Devops website </h1>
     <p>Please fill in this form to get free courses.</p>
     <hr>
 
